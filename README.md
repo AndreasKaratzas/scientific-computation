@@ -1,2 +1,2 @@
-# scientific-computation
-MATLAB exercises for Scientific Computation.
+# MATLAB for Scientific Computation
+
