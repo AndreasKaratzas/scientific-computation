@@ -7,6 +7,5 @@ Semester Project for Scientific Computation and Advanced Linear Algebra methods 
 - There is a report in Greek under `docs`.
 
 ### TODOs
-
-– [ ] Complete `README`
-– [ ] Translate report in English
+- [ ] Complete `README`
+- [ ] Translate report in English
